@@ -72,7 +72,7 @@ dependencies:
   - wcwidth=0.1.7=py27_0
   - wheel=0.31.0=py27_0
   - widgetsnbextension=3.2.1=py27_0
-  - zeromq=4.2.5=vc9_1
+
   - zlib=1.2.11=vc9_0
   - icc_rt=2017.0.4=h97af966_0
   - intel-openmp=2018.0.0=8
