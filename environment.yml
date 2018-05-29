@@ -56,7 +56,6 @@ dependencies:
   - python=2.7.15=0
   - python-dateutil=2.7.3=py_0
   - pytz=2018.4=py_0
-  - pywinpty=0.5.3=py27_0
   - pyzmq=17.0.0=py27_4
   - qt=5.6.2=vc9_1
   - qtconsole=4.3.1=py27_0
