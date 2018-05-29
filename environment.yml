@@ -70,7 +70,6 @@ dependencies:
   - tornado=5.0.2=py27_0
   - traitlets=4.3.2=py27_0
   - wcwidth=0.1.7=py27_0
-  - webencodings=0.5.1=py27_0
   - wheel=0.31.0=py27_0
   - widgetsnbextension=3.2.1=py27_0
   - win_unicode_console=0.5=py27_0
