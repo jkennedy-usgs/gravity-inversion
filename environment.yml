@@ -43,7 +43,6 @@ dependencies:
   - nbformat=4.4.0=py27_0
   - notebook=5.5.0=py27_0
   - olefile=0.45.1=py27_0
-  - openssl=1.0.2o=vc9_0
   - pandocfilters=1.4.2=py27_0
   - parso=0.2.1=py_0
   - pathlib2=2.3.2=py27_0
