@@ -57,7 +57,6 @@ dependencies:
   - python-dateutil=2.7.3=py_0
   - pytz=2018.4=py_0
   - pyzmq=17.0.0=py27_4
-  - qt=5.6.2=vc9_1
   - qtconsole=4.3.1=py27_0
   - scandir=1.7=py27_0
   - send2trash=1.5.0=py_0
