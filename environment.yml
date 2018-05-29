@@ -19,7 +19,6 @@ dependencies:
   - entrypoints=0.2.3=py27_1
   - enum34=1.1.6=py27_1
   - fatiando=0.5=np111py27_1
-  - freetype=2.8.1=vc9_0
   - funcsigs=1.0.2=py_2
   - functools32=3.2.3.2=py27_2
   - future=0.16.0=py27_0
