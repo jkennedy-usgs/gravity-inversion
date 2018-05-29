@@ -32,4 +32,5 @@ pandoc=1.19.2.1=hb2460c7_1
 scipy=1.1.0=py27ha6b90e7_0
 vs2015_runtime=14.0.25123=3
 winpty=0.4.3=4
-		      
+https://github.com/fatiando/fatiando/archive/master.zip
+
