@@ -71,4 +71,6 @@ dependencies:
   - wcwidth=0.1.7=py27_0
   - wheel=0.31.0=py27_0
   - widgetsnbextension=3.2.1=py27_0
+  - pip:
+    - https://github.com/fatiando/fatiando/archive/master.zip
 
