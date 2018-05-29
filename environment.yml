@@ -36,7 +36,6 @@ dependencies:
   - jupyter_console=5.2.0=py27_0
   - jupyter_core=4.4.0=py_0
   - kiwisolver=1.0.1=py27_1
-  - libpng=1.6.34=vc9_0
   - libsodium=1.0.16=vc9_0
   - libtiff=4.0.9=vc9_0
   - markupsafe=1.0=py27_0
